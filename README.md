@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Saurabh.
+## 👋 Hi there, I'm Saurabh.
 
 <!--
 **srs2210/srs2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Currently working on some awesome content 😉...
+### I am an enthusiastic Cloud Engineer who loves to work on cloud-native technologies 👨‍💻
