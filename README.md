@@ -17,13 +17,6 @@ Here are some ideas to get you started:
 
 I am an enthusiastic Cloud Engineer who loves to work on cloud-native technologies 👨‍💻
 
-<table>
-  <tr>
-    <td> <img src="images/microsoft-certified-devops-engineer-expert.png"  alt="1"></td>
-    <td><img src="images/microsoft-certified-azure-developer-associate.1.png" alt="2"></td>
-   </tr>
-</table>
-
 Here are some things I put my time into:
 - 📝 [Blogging](https://dev.to/srs2210)
 - ♾️ DevOps & Automation
