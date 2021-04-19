@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 I am an enthusiastic Cloud Engineer who loves to work on cloud-native technologies 👨‍💻
 
 Here are some things I put my time into:
-- 📝 Blogging ([Visit my blog](https://dev.to/srs2210))
-- ⚡️ Serverless Computing
+- 📝 [Blogging](https://dev.to/srs2210)
 - ♾️ DevOps & Automation
+- ❄️ Kubernetes
 
 Reach out [on email](mailto:shivgundesaurabh@gmail.com) if you have any thoughts or comments.
